@@ -1,5 +1,10 @@
 # Meal-Finder
 
-Live Side Link :- https://mdsajalali.github.io/Meal-Finder/
+ 
+**Used Technology**
 
-#Using html / css / javascript and api = themealdb
+HTML
+CSS
+JAVASCRIPT(API = themealdb)
+ 
+
