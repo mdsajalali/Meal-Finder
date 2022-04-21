@@ -3,7 +3,7 @@
  
 **Used Technology**
 
-HTML /n
+HTML 
 CSS
 JAVASCRIPT(API = themealdb)
  
